@@ -18,4 +18,9 @@
     <None Include="Master_Slave_Gang_Switch.ino" />
     <None Include="src\arduino folders read me.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.Master_Slave_Gang_Switch.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
